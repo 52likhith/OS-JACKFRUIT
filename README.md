@@ -99,28 +99,28 @@ dmesg | grep container_monitor | tail -5
 ## 3. Demo Screenshots
 
 **Screenshot 1 — Two containers running under one supervisor**
-![ss1](screenshots/ss1.png)
+![ss1](screenshots/ss1.jpeg)
 
 **Screenshot 2 — ps output showing container metadata**
-![ss2](screenshots/ss2.png)
+![ss2](screenshots/ss2.jpeg)
 
 **Screenshot 3 — Logging pipeline proof**
-![ss3](screenshots/ss3.png)
+![ss3](screenshots/ss3.jpeg)
 
 **Screenshot 4 — CLI command and supervisor response**
-![ss4](screenshots/ss4.png)
+![ss4](screenshots/ss4.jpeg)
 
 **Screenshot 5 — Soft limit warning in dmesg**
-![ss5](screenshots/ss5.png)
+![ss5](screenshots/ss5.jpeg)
 
 **Screenshot 6 — Hard limit kill in dmesg**
-![ss6](screenshots/ss6.png)
+![ss6](screenshots/ss6.jpeg)
 
 **Screenshot 7 — Scheduler experiment results**
-![ss7](screenshots/ss7.png)
+![ss7](screenshots/ss7.jpeg)
 
 **Screenshot 8 — Clean teardown, no zombies**
-![ss8](screenshots/ss8.png)
+![ss8](screenshots/ss8.jpeg)
 
 ## 4. Engineering Analysis
 
